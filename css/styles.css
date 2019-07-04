@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: gold;
+}
+h1,h3 {
+  color: #f7325e;
+}
+p {
+  font-family: fantasy;
+  color: #7dc410;
+}
+.popular {
+  text-decoration: underline;
+  font-size: 20px;
+  font-weight: bold;
+}
